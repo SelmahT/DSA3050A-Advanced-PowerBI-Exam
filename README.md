@@ -17,30 +17,21 @@
 
 ---
 
-## 2. Student Information
+## 2. Student & Course Information
 
 | Field | Details |
-|---|---|
-| **Name** | Selmah Tzindori |
+| :--- | :--- |
+| **Student Name** | Selmah Tzindori |
 | **Admission Number** | 602 |
 | **University** | United States International University (USIU) |
-| **Course Code** | DSA 3050A |
-| **Class** | Business Intelligence and Analytics |
-| **Date Submitted** | 17th April 2025 |
+| **Course Code** | DSA 3050A (Business Intelligence and Analytics) |
+| **Examination** | Advanced Power BI End Semester Exam |
 | **Semester** | Spring Semester 2026 |
+| **Date Submitted** | 18th April 2026 |
 
 ---
 
-## 3. Course Code and Class
-
-- **Course Code:** DSA 3050A  
-- **Course Name:** Business Intelligence and Analytics  
-- **Examination:** Advanced Power BI End Semester Exam  
-- **Total Marks:** 100
-
----
-
-## 4. Project Overview
+## 3. Project Overview
 
 This project delivers a complete, end-to-end Power BI analytical solution built on the **Brazilian E-Commerce Public Dataset by Olist**. Starting from 8 raw CSV files containing over **99,000 transactional records**, the project executes the full Business Intelligence lifecycle:
 
@@ -53,7 +44,7 @@ This project delivers a complete, end-to-end Power BI analytical solution built 
 
 ---
 
-## 5. Problem Statement
+## 4. Problem Statement
 
 Olist, Brazil's largest multi-vendor department store marketplace, faces a **critical operational visibility gap**. Key business questions this solution answers:
 
@@ -65,7 +56,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 
 ---
 
-## 6. Dataset Description
+## 5. Dataset Description
 
 | Attribute | Detail |
 |---|---|
@@ -90,7 +81,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 
 ---
 
-## 7. Tools Used
+## 6. Tools Used
 
 | Tool | Purpose |
 |---|---|
@@ -103,7 +94,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 
 ---
 
-## 8. Steps Followed
+## 7. Steps Followed
 
 ### Phase 1: Data Acquisition
 1. Downloaded all 8 CSV files from Kaggle (Olist Brazilian E-Commerce dataset)
@@ -160,7 +151,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 
 ---
 
-## 9. Dashboard Features
+## 8. Dashboard Features
 
 ### Page 1: Executive Summary
 - **4 KPI Cards:** Total Revenue (Ksh 16M), Total Orders (99K), Average Order Quantity (158), % of Total Sales
@@ -184,7 +175,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 
 ---
 
-## 10. Key DAX Measures
+## 9. Key DAX Measures
 
 ```dax
 -- Total Revenue
@@ -239,7 +230,7 @@ SWITCH(TRUE(),
 
 ---
 
-## 11. Key Insights
+## 10. Key Insights
 
 | # | Insight | Evidence |
 |---|---|---|
@@ -251,7 +242,7 @@ SWITCH(TRUE(),
 
 ---
 
-## 12. Challenges Encountered
+## 11. Challenges Encountered
 
 | Challenge | How It Was Resolved |
 |---|---|
@@ -265,7 +256,7 @@ SWITCH(TRUE(),
 
 ---
 
-## 13. Conclusion
+## 12. Conclusion
 
 This Power BI solution demonstrates the full Business Intelligence lifecycle applied to a real-world e-commerce dataset. The Olist marketplace analysis reveals three critical operational priorities for business leadership:
 
