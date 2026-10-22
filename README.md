@@ -146,8 +146,8 @@ Without structured BI analytics, these questions cannot be answered consistently
 > [!TIP]
 > **Project Assets & Build Documentation**
 > To inspect the data model, DAX measures, or read the full project analysis, use the links below:
-> * 📊 **[Source Power BI File (.pbix)](https://github.com/SelmahTzindori/DSA3050A-Advanced-PowerBI-Exam/raw/main/powerbi/DSA3050_EndSem_Practical.pbix)** — *Direct download of the model.*
-> * 📄 **[Final Technical Report (PDF)](https://github.com/SelmahTzindori/DSA3050A-Advanced-PowerBI-Exam/blob/main/report/DSA3050A_Finals_Report.pdf)** — *Full documentation of the analytical journey.*
+> * 📊 **[Source Power BI File (.pbix)](https://github.com/SelmahT/DSA3050A-Advanced-PowerBI-Exam/raw/main/powerbi/DSA3050_EndSem_Practical.pbix)** — *Direct download of the model.*
+> * 📄 **[Final Technical Report (PDF)](https://github.com/SelmahT/DSA3050A-Advanced-PowerBI-Exam/blob/main/report/DSA3050A_Finals_Report.pdf)** — *Full documentation of the analytical journey.*
 
 ---
 
