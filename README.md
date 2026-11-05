@@ -154,7 +154,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 ## 8. Dashboard Features
 
 ### Page 1: Executive Summary
-- **4 KPI Cards:** Total Revenue (Ksh 16M), Total Orders (99K), Average Order Quantity (158), % of Total Sales
+- **4 KPI Cards:** Total Revenue (R$ 16M), Total Orders (99K), Average Order Quantity (158), % of Total Sales
 - **Area Trend Chart:** Revenue by Month Name — highlights seasonal peaks (May–Aug) and September trough
 - **Horizontal Bar Chart:** Top 5 product categories by revenue (Top N filtered)
 - **Slicers:** Year (tile) and Customer State (radio button)
@@ -168,7 +168,7 @@ Without structured BI analytics, these questions cannot be answered consistently
 
 ### Page 3: Insights and Performance Monitoring
 - **Clustered Column Chart:** High Value vs. Standard segment revenue across 2016–2018
-- **Gauge Chart:** Actual revenue (Ksh 15.74M) vs. annual target (Ksh 18M)
+- **Gauge Chart:** Actual revenue (R$ 15.74M) vs. annual target (R$ 18M)
 - **Top Performers Table:** Categories ranked by descending revenue
 - **Bottom Performers Table:** Categories ranked by ascending revenue (dead stock identification)
 - **Shipping Tier Donut Chart:** Order distribution — Economy 66%, Standard 24%, Express 7%
@@ -234,11 +234,11 @@ SWITCH(TRUE(),
 
 | # | Insight | Evidence |
 |---|---|---|
-| 1 | **Regional Concentration Risk** — SP (São Paulo) generates Ksh 6M, more than 3× the next state (RJ) | Revenue by States bar chart, Page 2 |
+| 1 | **Regional Concentration Risk** — SP (São Paulo) generates R$ 6M, more than 3× the next state (RJ) | Revenue by States bar chart, Page 2 |
 | 2 | **Economy Shipping Failure** — Economy tier increases late delivery likelihood by **16.23×** | Key Influencers AI visual, Page 2 |
-| 3 | **September Dead Zone** — Revenue drops 59% MoM from August (Ksh 1.7M) to September (Ksh 0.7M) | Revenue by Month trend chart, Pages 1 & 3 |
-| 4 | **High-Value Segment Growth** — High Value orders grew to Ksh 2.1M in 2018; Standard remains dominant at Ksh 6.5M | Clustered column by segment, Page 3 |
-| 5 | **Long-Tail Category Risk** — Top 3 categories generate Ksh 1M+ each; Security & Services earns only Ksh 324 total | Top/Bottom Performers tables, Page 3 |
+| 3 | **September Dead Zone** — Revenue drops 59% MoM from August (R$ 1.7M) to September (R$ 0.7M) | Revenue by Month trend chart, Pages 1 & 3 |
+| 4 | **High-Value Segment Growth** — High Value orders grew to R$ 2.1M in 2018; Standard remains dominant at R$ 6.5M | Clustered column by segment, Page 3 |
+| 5 | **Long-Tail Category Risk** — Top 3 categories generate R$ 1M+ each; Security & Services earns only R$ 324 total | Top/Bottom Performers tables, Page 3 |
 
 ---
 
